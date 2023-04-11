@@ -19,13 +19,13 @@ main{
 
 h1{
     font-size: 2em;
-    color: rgb(250, 250, 250)
+    color: rgb(0, 0, 0)
 
 }
 
 h2{
     font-size: 1.5em;
-    color:antiquewhite
+    color:rgb(2, 2, 1)
 }
 
 a{
